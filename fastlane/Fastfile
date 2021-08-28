@@ -1,0 +1,3 @@
+lane :test do
+  open_finder1(path:Dir.pwd)
+end
